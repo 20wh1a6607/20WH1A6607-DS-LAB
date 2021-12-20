@@ -1,0 +1,18 @@
+		Input:
+	Enter size of list:3
+	Enter 3 elements:2
+	3
+	4
+	Element to be searched:3
+	Output:
+	Element found at 1 position
+	
+
+	Input:
+	Enter size of list:2
+	Enter 2 elements:1
+	2
+	Element to be searched:3
+	Output:
+	Element not found
+
