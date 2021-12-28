@@ -1,0 +1,53 @@
+1 create
+,2 preorder
+,3 inorder
+,4 postorder
+,5 exit()
+enter your choice1
+1
+1 create
+,2 preorder
+,3 inorder
+,4 postorder
+,5 exit()
+enter your choice1
+2
+1 create
+,2 preorder
+,3 inorder
+,4 postorder
+,5 exit()
+enter your choice1
+3
+1 create
+,2 preorder
+,3 inorder
+,4 postorder
+,5 exit()
+enter your choice1
+4
+1 create
+,2 preorder
+,3 inorder
+,4 postorder
+,5 exit()
+enter your choice2
+12341 create
+,2 preorder
+,3 inorder
+,4 postorder
+,5 exit()
+enter your choice4
+43211 create
+,2 preorder
+,3 inorder
+,4 postorder
+,5 exit()
+enter your choice3
+12341 create
+,2 preorder
+,3 inorder
+,4 postorder
+,5 exit()
+enter your choice
+
