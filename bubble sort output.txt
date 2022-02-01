@@ -1,0 +1,16 @@
+enter the no of elements
+6
+enter the integers
+6
+2
+7
+3
+8
+9
+sorted list in ascending order
+2
+3
+6
+7
+8
+9
