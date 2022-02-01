@@ -1,0 +1,17 @@
+
+ Enter number of vertices:3
+
+ Enter the adjacency matrix:
+12
+2
+3
+4
+
+4
+4
+3
+6
+7
+
+ 1->2
+ 2->3
